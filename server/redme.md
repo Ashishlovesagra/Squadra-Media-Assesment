@@ -89,7 +89,7 @@ Setup Instructions
 1. Clone the Repository
 bash
 Copy code
-git clone ttps://github.com/Ashishlovesagra/Squadra-Media-Assesment.git
+git clone https://github.com/Ashishlovesagra/Squadra-Media-Assesment.git
 cd mern-user-app/backend
 2. Install Backend Dependencies
 bash
