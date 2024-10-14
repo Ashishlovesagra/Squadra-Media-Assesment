@@ -89,7 +89,7 @@ Setup Instructions
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-repo/mern-user-app.git
+git clone ttps://github.com/Ashishlovesagra/Squadra-Media-Assesment.git
 cd mern-user-app/backend
 2. Install Backend Dependencies
 bash
